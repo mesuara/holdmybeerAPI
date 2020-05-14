@@ -1,0 +1,25 @@
+body {
+  font-family: monospace;
+  background-color: #333333;
+  
+  color:#E6AF2E;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#anw {
+  color:#D36135;
+  font-size: 100px;
+}
+
+button{
+  padding: 10px;
+  font-size: 30px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #E6AF2E;
+  color: #FAFFFD;
+  font-weight: bold;
+
+}
